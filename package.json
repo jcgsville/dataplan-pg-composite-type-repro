@@ -1,13 +1,5 @@
 {
   "name": "dataplan-pg-composite-type-repro",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
   "dependencies": {
     "postgraphile": "^5.0.0-beta.37"
   }
